@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lidebe
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on future projects
