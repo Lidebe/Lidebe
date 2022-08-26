@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Lidebe
-- 🌱 I’m currently learning Python and JS
+- im @Lidebe
+- currently learning py and js
