@@ -1,2 +1,3 @@
-- im @Lidebe
-- currently learning py and js
+- i'm @Lidebe
+- currently learning py
+- my main goal is to master a few programming languages
